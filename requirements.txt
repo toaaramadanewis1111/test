@@ -1,11 +1,5 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-
-streamlit
+streamlit==1.56.0
 torch==2.2.0
 torchvision==0.17.0
 pillow
 numpy
-torch==2.2.0
-torchvision==0.17.0
-streamlit
-pillow
